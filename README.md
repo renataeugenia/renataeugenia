@@ -1,6 +1,11 @@
 ### Hi there 👋, meu nome é Renata Eugênia
-#### Sou uma Analista de Dados, em formação !
-![Sou uma Analista de Dados, em formação !](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Sou uma Analista de Dados, em formação!
+
+<p><img
+src 
+= "https://github.com/renataeugenia/renataeugenia/raw/main/arquivos/pexels-skitterphoto-705171.jpg" alt=
+"imagem de dados em cima do espelho"></p>
+
 
 Sou fã do trabalho em equipe e colaboração, possuo forte habilidade comunicativa e experiência em atendimento, recentemente desenvolvi habilidades tecnológicas, inquietação por resolução de problemas e me tornei uma pessoa em formação contínua. 
 
